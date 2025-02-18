@@ -1,5 +1,5 @@
 {% set name = "griffe-pydantic" %}
-{% set version = "1.1.0" %}
+{% set version = "1.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/griffe_pydantic-{{ version }}.tar.gz
-  sha256: 9c5a701cc485dab087857c1ac960b44671acee5008aaae0752f610b2aa82b068
+  sha256: 381eacd8854a85811522b4f6dc9a1ef0fb5931825081379d70ff3a425b0d4ea1
 
 build:
   noarch: python
