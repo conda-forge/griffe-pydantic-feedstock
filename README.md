@@ -146,4 +146,5 @@ Feedstock Maintainers
 =====================
 
 * [@SimonBoothroyd](https://github.com/SimonBoothroyd/)
+* [@stanmart](https://github.com/stanmart/)
 
