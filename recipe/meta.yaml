@@ -22,7 +22,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - griffe >=1.6.3
+    - griffe >=1.14
 
 test:
   imports:
